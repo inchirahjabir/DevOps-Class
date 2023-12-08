@@ -71,4 +71,4 @@ jobs:
           app-name: 'DimJab'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0CE2D15FFEB44D31BDC407A6B6EF3CEC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_353CF96AA956419088377324893FA21C }}
