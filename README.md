@@ -11,7 +11,6 @@
 [Lab 7 : Container orchestration | with Kubernetes](https://github.com/inchirahjabir/ece-devops-Dimitriu-Jabir/tree/main/Labs/Lab%207%3A%20Container%20Orchestration)
 [Lab 8 : Storage in Kubernetes](https://github.com/inchirahjabir/ece-devops-Dimitriu-Jabir/tree/main/Labs/Lab%208%3A%20Storage%20in%20Kubernetes)
 
-
 ## Devops Project
 
 [Project Instructions](https://github.com/adaltas/ece-devops-2023-fall/blob/main/project/instructions.md)
