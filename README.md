@@ -14,7 +14,9 @@
 
 ## Devops Project
 
-[Project Instructions]([https://github.com/adaltas/ece-devops-2023-fall/blob/main/project/instructions.md]
+[Project Instructions](https://github.com/adaltas/ece-devops-2023-fall/blob/main/project/instructions.md)
+
+[Project](https://github.com/inchirahjabir/ece-devops-Dimitriu-Jabir/tree/main/Project)
 
 ## Authors
 
