@@ -5,8 +5,7 @@
 1. Clone repository
    
 ```sh
-# https
-git clone [https://github.com/polocto/Project-SI.git](https://github.com/inchirahjabir/ece-devops-Dimitriu-Jabir.git)
+git clone https://github.com/polocto/Project-SI.git](https://github.com/inchirahjabir/ece-devops-Dimitriu-Jabir.git)
 ```
 
 2. Install [Vagrant](https://www.vagrantup.com/downloads.html)
