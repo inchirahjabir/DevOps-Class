@@ -1,0 +1,13 @@
+---
+- hosts: all
+  become: true
+
+  roles:
+    - role: server/install
+      tags: install
+
+    - role: server/startapp
+      tags: run
+  
+    - role: server/healthchecks
+      tags: check

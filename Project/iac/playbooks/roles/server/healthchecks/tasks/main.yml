@@ -1,0 +1,11 @@
+---
+
+- name: Health check of the application
+  command: npm test
+  args:
+    chdir: /home/app
+  register: app_health
+
+- name: Print Application Health
+  debug:
+    msg: "{{ app_health.stdout }}"

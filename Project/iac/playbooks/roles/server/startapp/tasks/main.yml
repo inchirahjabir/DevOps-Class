@@ -1,0 +1,8 @@
+---
+- name: Launch App
+  command: "npm start"
+  args:
+    chdir: "/home/app"
+  async: 1000000000
+  poll: 0
+  
