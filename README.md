@@ -25,6 +25,8 @@
 
 [Project](https://github.com/inchirahjabir/ece-devops-Dimitriu-Jabir/tree/main/Project)
 
+[Project Report](https://github.com/inchirahjabir/ece-devops-Dimitriu-Jabir/blob/main/Project/README.md)
+
 ## Authors
 
 - Inchirah Jabir
